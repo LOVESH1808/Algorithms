@@ -1,5 +1,5 @@
 import java.util.HashMap;
-
+//https://leetcode.com/problems/lru-cache/
 class Node {
     Node prev, next;
     int key, val;
